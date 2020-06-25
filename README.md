@@ -1,10 +1,9 @@
 # [L07: Binary Addition](https://docs.google.com/document/d/1rOxBrFifkuemZBPvCbzykaGYSfOBPXEOsOnQdRglk_g/edit?usp=sharing)
 
-## This lab is designed to give you familiarity with an important aspect 
+## This lab is designed to give the familiarity with an important aspect 
 ## of binary arithmetic, namely adding 1 or incrementing which sometimes 
 ## results in the propagation of a carry through the bits. 
 
-### Starter files have been provided for you in C++
 
 ### Thy H. Nguyen
 ### Authors of lab and stubs: Mario Nakazawa and Jan Pearce, Berea College
