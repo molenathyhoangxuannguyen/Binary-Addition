@@ -5,7 +5,7 @@
 ## results in the propagation of a carry through the bits. 
 
 
-### Thy H. Nguyen
+### Main Author: Thy H. Nguyen
 ### Authors of lab and stubs: Mario Nakazawa and Jan Pearce, Berea College
 
 1. **WHITEBOARD DESIGN**
