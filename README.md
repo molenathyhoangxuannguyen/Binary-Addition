@@ -1,6 +1,6 @@
 # [L07: Binary Addition](https://docs.google.com/document/d/1rOxBrFifkuemZBPvCbzykaGYSfOBPXEOsOnQdRglk_g/edit?usp=sharing)
 
-## This lab is designed to give an important aspect 
+## This lab is designed to give the important aspect 
 ## of binary arithmetic, namely adding 1 or incrementing which sometimes 
 ## results in the propagation of a carry through the bits. 
 
